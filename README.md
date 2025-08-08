@@ -9,4 +9,4 @@
 
 ✅ 04.08.2025 - сделала загрузку данных
 
-✅ 07.08.2025 - готова первая версия парсера и пример использования.   
+✅ 07.08.2025 - готова [первая версия парсера](https://github.com/aksyuk/literary-naming/blob/main/main-parser.R) и [пример использования](https://github.com/aksyuk/literary-naming/blob/main/parser_with_example.md).   
